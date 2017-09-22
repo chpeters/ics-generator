@@ -1,0 +1,27 @@
+{
+  "name": "icy-ics",
+  "version": "0.1.0",
+  "description": "simple api for generating ICS files and strings",
+  "main": "icy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chpeters/ics-generator.git"
+  },
+  "keywords": [
+    "ics",
+    "js",
+    "ical",
+    "calendar",
+    "cal",
+    "icalender"
+  ],
+  "author": "Charlie Peters <chpeters13@gmail.com> (http://charliepeters.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chpeters/ics-generator/issues"
+  },
+  "homepage": "https://github.com/chpeters/ics-generator#readme"
+}
