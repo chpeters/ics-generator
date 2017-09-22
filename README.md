@@ -8,7 +8,7 @@ A small library of helper functions to generate ICS strings and files.
 
 ## Usage
 ```
-    let icy = require('/number-formatter');
+    let icy = require('/ics-generator');
     const startDate = new Date(2017,8,27,12,30);
     const endDate = new Date(2017,8,27,12,45);
     let icsString = icy.makeString(startDate, endDate, "Example Title", "Example Location");
